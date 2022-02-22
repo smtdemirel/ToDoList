@@ -1,0 +1,8 @@
+C:\Users\smtde\Desktop\.net\net-projeler\class\ToDo Uygulaması\obj\Debug\ToDo Uygulaması.csproj.AssemblyReference.cache
+C:\Users\smtde\Desktop\.net\net-projeler\class\ToDo Uygulaması\obj\Debug\ToDo Uygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\smtde\Desktop\.net\net-projeler\class\ToDo Uygulaması\obj\Debug\ToDo Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\smtde\Desktop\.net\net-projeler\class\ToDo Uygulaması\bin\Debug\ToDo Uygulaması.exe.config
+C:\Users\smtde\Desktop\.net\net-projeler\class\ToDo Uygulaması\bin\Debug\ToDo Uygulaması.exe
+C:\Users\smtde\Desktop\.net\net-projeler\class\ToDo Uygulaması\bin\Debug\ToDo Uygulaması.pdb
+C:\Users\smtde\Desktop\.net\net-projeler\class\ToDo Uygulaması\obj\Debug\ToDo Uygulaması.exe
+C:\Users\smtde\Desktop\.net\net-projeler\class\ToDo Uygulaması\obj\Debug\ToDo Uygulaması.pdb
